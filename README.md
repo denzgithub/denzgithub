@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @denzgithub
+- 👀 I’m interested in coding
+- 🌱 I’m currently learning via The Odin Project
